@@ -1,17 +1,8 @@
-# EmrecanTuncel_Homework
-- Week 1 
+# Postman Uyglaması Üzerinde Trello Web Sitesi API Testleri
 
-  * Homework 1
-    - CicekSepeti.com için 25 Manuel Test Senaryosu
+Bu projede, www.trello.com web sitesinin birkaç Api Testi gerçekleştirilmektedir.
 
-  * Homework 2
-    - CicekSepeti.com için IntelliJ IDEA-Selenium ile Test Cases (2 Class * 2 Test)
- 
-- Week 2
+Projede çalışabilmek için https://developer.atlassian.com/ üzerinden Key ve Token alınmalıdır. Key ve Token, tüm Get/Post/Put/Delete isteklerimizde Parametre olarak kullanılacaktır.
 
-  * Homework 1
-    - Google PageSpeed Insights Medium
-
-  * Homework 2
-    - Github API - Postman Collections & README
+Aynı zamanda https://developer.atlassian.com/cloud/trello/rest/api-group-actions/ adresinde bulunan endpointler ile www.trelloçcom üzerinde kolaylıkla Testleri gerçekleştirebilirsiniz.
     
