@@ -1,17 +1,3 @@
-# EmrecanTuncel_Homework
-- Week 1 
+# Google PageSpeed Insights Hakkında Medium Paylaşımı
 
-  * Homework 1
-    - CicekSepeti.com için 25 Manuel Test Senaryosu
-
-  * Homework 2
-    - CicekSepeti.com için IntelliJ IDEA-Selenium ile Test Cases (2 Class * 2 Test)
- 
-- Week 2
-
-  * Homework 1
-    - Google PageSpeed Insights Medium
-
-  * Homework 2
-    - Github API - Postman Collections & README
-    
+https://medium.com/@emrecantuncel/google-pagespeed-insights-hakk%C4%B1nda-579498abc42d
