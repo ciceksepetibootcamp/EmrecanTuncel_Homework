@@ -1,9 +1,9 @@
-# EmrecanTuncel_CicekSepeti_HWweekOne
+# ÇiçekSepeti Web Sayfası UI Test Otomasyon Projesi
 
 Merhaba, 
 - https://www.ciceksepeti.com/ web sitesi için hazırlanmış web otomasyon projesidir. Selenium ve JUnit kullanılmıştır.
 - Page Object Model uygulanmıştır.
-- 2 adet Test Class'ı içerisinde toplam 4 adet Test Case mevcuttur.
+- 2 adet Test Class'ın içerisinde toplam 4 adet Test Case mevcuttur.
 
 
 
