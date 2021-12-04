@@ -13,5 +13,5 @@
     - Google PageSpeed Insights Medium
 
   * Homework 2
-    - Github API - Postman Collections & README
+    - Postman Collections & README
     
